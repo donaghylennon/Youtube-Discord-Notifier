@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Previous latest text file which stores the id of the last uploaded video
+previous_latest.txt
